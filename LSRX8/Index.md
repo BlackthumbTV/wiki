@@ -75,9 +75,10 @@ Followed the powersteering delete detailed in [this forum post](https://www.s10f
 
 With both of these my accessories were easy.
 
-![RX8 accessory belt drive](./LS1PSDeleteBeltRouting.jpg){ width=400 }
+[![RX8 accessory belt drive](./LS1PSDeleteBeltRouting.jpg){ width=400 }](./LS1PSDeleteBeltRouting.jpg)
 
 
 ## Other notes
  - There's a pinch weld that goes around the frame rails/firewall/entire engine bay. This is so close to the headers that I can't get the rear-most bolts in on them. Next time I'll hammer that down flat so I have a bit more room.
- - I'm running a standalone Haltech ECU. I didn't have a stock tune for this engine, so I grabbed a factory ECU tune from the [Sloppy Mechanics Tune Cabinet](https://sites.google.com/site/sloppywiki/tunecabinet). It was in the EFILive format, so I downloaded that and just manually copied and pasted the stuff from there into the Haltech software to make the base tune.
+ - I'm running a standalone Haltech ECU. I didn't have a stock tune for this engine, so I grabbed a factory ECU tune from the [Sloppy Mechanics Tune Cabinet](https://sites.google.com/site/sloppywiki/tunecabinet).
+   - It was in the EFILive format, so I downloaded that and just manually copied and pasted the stuff from there into the Haltech software to make the base tune.
