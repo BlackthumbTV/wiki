@@ -1,4 +1,4 @@
-![RX8 Photo](./rx8.jpg){ width: 700 }
+![RX8 Photo](./rx8.jpg){ width=700 }
 
 # LS Swapped RX8
 My LS swapped 2004 Mazda RX8. A pretty ordinary RX8 swap.
@@ -8,7 +8,7 @@ My LS swapped 2004 Mazda RX8. A pretty ordinary RX8 swap.
 ## Introduction
 I had hankering to play with an LS, so I decided to look into swapping one into something. I started looking for the cheapest cars I could find that were RWD and that I thought looked cool. Enter the RX8. This was a much easier swap than my [Honda K Swapped RX8](/Hondaru/Index.md).
 
-## Parts list
+## Parts List
 Here's a good parts list on what I bought for this swap.
 
 ### Engine
@@ -32,3 +32,50 @@ Here's a good parts list on what I bought for this swap.
  ### Body
  - Steering Rack Extension [Link](https://www.cxracing.com/SS-PIP-RX8-STEERING) | [Backup](./parts/SteeringExtension.pdf)
  - TEIN Street Basis Z Coilovers
+
+
+
+## ABS Delete
+In order to fit the LS, I had to delete the ABS pump. It was sitting right where the head was. I think you can clear it on cars that didn't come with DSC, but mine did and I can't be arsed to mess with it.
+
+### Random brake notes
+Tese are just some notes that I took while looking up brake line parts in the past. Do with them what you will. 
+
+When I deleted the ABS unit, I used 3/16" line to everything. I used (splitters)[https://www.amazon.com/gp/product/B01KNGVKEA] to come out of the master cylinder to go to each wheel. Yes, each of the two splitters are fed by 3/16" line. Haven't had any issues with braking power or responsiveness. 
+
+[Brake line size reference](https://ricksfreeautorepairadvice.com/brake-line-fitting/)
+
+Because of the weird sizes, I opted to get a [3/16" brake fitting kit](https://www.amazon.com/gp/product/B07BMZDKXD). It ended up having everything I needed.
+
+Some notes taken from [here](https://www.rx8club.com/series-i-tech-garage-22/brake-master-cylinder-versions-272660/):
+
+There are 4 versions of the master cylinder for the 04-05 cars. The early cars used a Tokico MC with the ports facing down. I believe that a build date around 06/05 is where the switch to a different style MC was made with the ports facing to the side.
+Both the early and revised MC have two variants, one for cars equipped with the Bosch DSC ABS and one for cars with the Sumitomo ABS. The Bosch ABS unit MC uses M12 fittings with 6mm lines (if I recall correctly they are bubble flare,) and the Sumitomo ABS MC uses M10 inverted flare fittings and 4.75mm lines.
+
+Not sure why the switch from the original MC was made as the only difference is the location of the fittings. Bore size was the same across all variants and years (7/8"/22.23mm). My assumption is that it was either cost related or the original design was unreliable.
+You can use either the early or late design that matches the ABS unit in your car, but changing between designs will require you to buy or make the hard lines to match the MC. The early design is harder to come by as I believe it is only available new from Mazda, most likely you will need to send an early MC off to be rebuilt if needed.
+
+
+https://www.rx8club.com/series-i-tech-garage-22/brake-master-cylinder-versions-272660/
+
+## Headunit Notes
+The headunit controls the HVAC so you need some special stuff to make it work right. I ultimately decided to go with an [Axxes control box and setup](https://axxessinterfaces.com/product/95-7510) that controls the HVAC, and an [Android head unit](https://www.amazon.com/gp/product/B09FK3KDWN). Got my Axxes stuff used on eBay for much cheaper.
+
+### RX8 Display
+The little display in the center of the dash is pretty cool. Before deciding to get an aftermarket headunit setup that could handle it, I was looking into controlling it myself. Ended up finding this [Github repo](https://github.com/TonyChatfield/S1-RX8-AC-Display-controller).
+
+
+## Engine Notes
+### Accessories
+I'm running an LQ4, which is a normal ol truck engine and using the factory electric power steering rack. I need to both relocate the alternator down lower and delete the LS truck power steering rack. To achieve this, did two different things.
+
+First, I installed an [ICT Billet alternator relocation bracket](https://www.amazon.com/gp/product/B00NY51SBI). This involves drilling and tapping a hole in the cast aluminum block which was easier than I thought it'd be. 
+
+Followed the powersteering delete detailed in [this forum post](https://www.s10forum.com/threads/power-steering-delete-on-ls1-engine.851875/).
+
+With both of these my accessories were easy.
+
+
+## Other notes
+ - There's a pinch weld that goes around the frame rails/firewall/entire engine bay. This is so close to the headers that I can't get the rear-most bolts in on them. Next time I'll hammer that down flat so I have a bit more room.
+ - I'm running a standalone Haltech ECU. I didn't have a stock tune for this engine, so I grabbed a factory ECU tune from the [Sloppy Mechanics Tune Cabinet](https://sites.google.com/site/sloppywiki/tunecabinet). It was in the EFILive format, so I downloaded that and just manually copied and pasted the stuff from there into the Haltech software to make the base tune.

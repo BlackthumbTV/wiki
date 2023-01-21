@@ -13,7 +13,7 @@ After being out of the car scene for a while, I opted to jump back in with this 
 
 After driving the car around for a year I ended up taking it to the dyno and [blowing it up](https://www.youtube.com/watch?v=2WlubEBycJc), making 466hp at the same time. Very cool.
 
-## Parts list
+## Parts List
 Here's most of the stuff I used on the Hondaru build.
 
 ### Engine
