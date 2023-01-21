@@ -7,7 +7,7 @@ My 2000 Subaru Impeza RS Coupe that I swapped with a Honda K24A2.
 
 
 ## Introduction
-After being out of the car scene for a while, I opted to jump back in with this swap. It was also the first thing I posted on YouTube about. Ahhh, memories...
+After being out of the car scene for a while, I opted to jump back in with this swap. It was also the first thing I posted on YouTube about. Ahhh, memories... I had read about the K series before, and there's lot of toys to play with like VTEC and VTC. So I had to have one.
 
  It uses an off-the-shelf adapter plate to adapt the Honda engine to the Subaru trans, thus maintaining the classic Subaru AWD. See the parts list below for all that.
 
