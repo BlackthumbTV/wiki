@@ -5,5 +5,6 @@ Welcome to the Blackthumb public wiki! The pages contained within are hopefully 
 
 [This is a test](TestFolder/AnotherTest.md)
 
-![Test image](sensual.jpg)
+![Test image](car.png)
+
 
