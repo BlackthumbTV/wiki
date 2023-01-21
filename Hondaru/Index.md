@@ -22,7 +22,7 @@ Here's most of the stuff I used on the Hondaru build.
  - Haltech Elite 2500 ECU
  - Subaru Gears Honda K Series Adapter Plate [Link](https://www.subarugears.com/product/honda-k-series/)
  - Clutch Masters FX400 Clutch [Link](https://clutchmasters.com/i-30505729-subaru-xv-crosstrek-2013-2015-2-0l-15013-hdc6.html)
- -  FIC 1200CC Fuel Injectors [Link](https://fuelinjectorclinic.com/Honda/K(01-11)-D17-S2K(06-09)/IS116-1200H), | [Backup](./parts/Injectors.pdf)
+ -  FIC 1200CC Fuel Injectors [Link](https://fuelinjectorclinic.com/Honda/K(01-11)-D17-S2K(06-09)/IS116-1200H) | [Backup](./parts/Injectors.pdf)
     - These ended up being too small for even 12psi of boost, so I later upgraded to 2150s from FIC as well. They were very understanding and ended up giving me good deal on them.
  - Fuel Rail [Link](https://www.ebay.com/itm/323608063092) | [Backup](./parts/FuelRail.pdf)
  - Fuel Pressure Regulator [Link](https://www.ebay.com/itm/254749363596) | [Backup](./parts/Fpr.pdf)
