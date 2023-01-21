@@ -75,6 +75,8 @@ Followed the powersteering delete detailed in [this forum post](https://www.s10f
 
 With both of these my accessories were easy.
 
+![RX8 accessory belt drive](./LS1PSDeleteBeltRouting.jpg){ width=400 }
+
 
 ## Other notes
  - There's a pinch weld that goes around the frame rails/firewall/entire engine bay. This is so close to the headers that I can't get the rear-most bolts in on them. Next time I'll hammer that down flat so I have a bit more room.
