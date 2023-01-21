@@ -22,12 +22,13 @@ Here's most of the stuff I used on the Hondaru build.
  - Clutch Masters FX400 Clutch [Link](https://clutchmasters.com/i-30505729-subaru-xv-crosstrek-2013-2015-2-0l-15013-hdc6.html)
  -  FIC 1200CC Fuel Injectors [Link](https://fuelinjectorclinic.com/Honda/K(01-11)-D17-S2K(06-09)/IS116-1200H) [Backup](./parts/Injectors.pdf)
     - These ended up being too small for even 12psi of boost, so I later upgraded to 2150s from FIC as well.They were very understanding and ended up giving me good deal on them.
- - Fuel Rail [Link](https://www.ebay.com/itm/323608063092)
+ - Fuel Rail [Link](https://www.ebay.com/itm/323608063092) [Backup](./parts/FuelRail.pdf)
+ - Fuel Pressure Regulator [Link](https://www.ebay.com/itm/254749363596) [Backup](./parts/Fpr.pdf)
+   - This ended up failing on me. Would drop fuel pressure under boost, which was fun. Ended up swapping it with a genuine Aeromotive unit. The fittings it came with are still good though.
+ - Exhaust Manifold [Link](https://www.ebay.com/itm/350792031715) [Backup](./parts/ExhaustManifold.pdf)
+
 
 ```csharp
-new("Fuel Rail", BuildItemCategory.Engine, "https://www.ebay.com/itm/323608063092", "hondaru/FuelRail.pdf"),
-new("Fuel Pressure Regulator", BuildItemCategory.Engine, "https://www.ebay.com/itm/254749363596", "hondaru/Fpr.pdf"), 
-new("Exhaust Manifold", BuildItemCategory.Engine, "https://www.ebay.com/itm/350792031715", "hondaru/ExhaustManifold.pdf"),
 new("Upper Coolant Housing", BuildItemCategory.Engine, "https://www.ebay.com/itm/114238768136", "hondaru/UpperCoolant.pdf"),
 new("Swivel Thermostat Housing", BuildItemCategory.Engine, "https://www.ebay.com/itm/113520236147", "hondaru/ThermostatHousing.pdf"),
 
