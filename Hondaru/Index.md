@@ -1,3 +1,5 @@
+<a href="./hondaru.jpg"><img src="./hondaru.jpg" width=400 /></a>
+
 # Honda Swapped Subaru Impreza
 My 2000 Subaru Impeza RS Coupe that I swapped with a Honda K24A2.
 
