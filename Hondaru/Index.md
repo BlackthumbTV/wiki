@@ -20,26 +20,24 @@ Here's most of the stuff I used on the Hondaru build.
  - Haltech Elite 2500 ECU
  - Subaru Gears Honda K Series Adapter Plate [Link](https://www.subarugears.com/product/honda-k-series/)
  - Clutch Masters FX400 Clutch [Link](https://clutchmasters.com/i-30505729-subaru-xv-crosstrek-2013-2015-2-0l-15013-hdc6.html)
- -  FIC 1200CC Fuel Injectors [Link](https://fuelinjectorclinic.com/Honda/K(01-11)-D17-S2K(06-09)/IS116-1200H) [Backup](./parts/Injectors.pdf)
-    - These ended up being too small for even 12psi of boost, so I later upgraded to 2150s from FIC as well.They were very understanding and ended up giving me good deal on them.
- - Fuel Rail [Link](https://www.ebay.com/itm/323608063092) [Backup](./parts/FuelRail.pdf)
- - Fuel Pressure Regulator [Link](https://www.ebay.com/itm/254749363596) [Backup](./parts/Fpr.pdf)
+ -  FIC 1200CC Fuel Injectors [Link](https://fuelinjectorclinic.com/Honda/K(01-11)-D17-S2K(06-09)/IS116-1200H), | [Backup](./parts/Injectors.pdf)
+    - These ended up being too small for even 12psi of boost, so I later upgraded to 2150s from FIC as well. They were very understanding and ended up giving me good deal on them.
+ - Fuel Rail [Link](https://www.ebay.com/itm/323608063092) | [Backup](./parts/FuelRail.pdf)
+ - Fuel Pressure Regulator [Link](https://www.ebay.com/itm/254749363596) | [Backup](./parts/Fpr.pdf)
    - This ended up failing on me. Would drop fuel pressure under boost, which was fun. Ended up swapping it with a genuine Aeromotive unit. The fittings it came with are still good though.
- - Exhaust Manifold [Link](https://www.ebay.com/itm/350792031715) [Backup](./parts/ExhaustManifold.pdf)
-
-
-```csharp
-new("Upper Coolant Housing", BuildItemCategory.Engine, "https://www.ebay.com/itm/114238768136", "hondaru/UpperCoolant.pdf"),
-new("Swivel Thermostat Housing", BuildItemCategory.Engine, "https://www.ebay.com/itm/113520236147", "hondaru/ThermostatHousing.pdf"),
-
-new("GT3582 Turbocharger", BuildItemCategory.Turbo, "https://www.ebay.com/itm/313405020842", "hondaru/Turbo.pdf"),
-new("Blow Off Valve", BuildItemCategory.Turbo, "https://www.ebay.com/itm/323976370478", "hondaru/Bov.pdf"),
-new("Air Water Intercooler Exchanger", BuildItemCategory.Turbo, "https://www.ebay.com/itm/284284503552", "hondaru/AWICExchanger.pdf"),
-new("Air Water Intercooler", BuildItemCategory.Turbo, "https://www.ebay.com/itm/183903814619", "hondaru/AWIC.pdf"),
-new("Wastegate", BuildItemCategory.Turbo, "https://www.ebay.com/itm/151739405815", "hondaru/Wastegate.pdf"),
-new("Turbo Oil Feed (turbo kit didn't have right one...)", BuildItemCategory.Turbo, "https://www.ebay.com/itm/264004884925", "hondaru/OilFeed.pdf"),
-
-new("ISC Suspension N1 Street Sport Coilovers", BuildItemCategory.Body, "https://www.rallysportdirect.com/part/coilovers/s001-s-isc-suspension-n1-street-sport-coilovers", "hondaru/Coilovers.pdf"),
-new("Firehawk Indy 500 Tires", BuildItemCategory.Body)
-
-```
+ - Exhaust Manifold [Link](https://www.ebay.com/itm/350792031715) | [Backup](./parts/ExhaustManifold.pdf)
+ - Upper Coolant Housing [Link](https://www.ebay.com/itm/114238768136) | [Backup](./parts/UpperCoolant.pdf)
+ - Swivel Thermostat Housing [Link](https://www.ebay.com/itm/113520236147) | [Backup](./parts/ThermostatHousing.pdf)
+ 
+ ### Turbo
+ - eBay GT3582 Turbocharger [Link](https://www.ebay.com/itm/313405020842) | [Backup](./parts/Turbo.pdf)
+ - Blow Off Valve [Link](https://www.ebay.com/itm/323976370478)  | [Backup](./parts/Bov.pdf)
+ - Air Water Intercooler [Link](https://www.ebay.com/itm/183903814619) | [Backup](./parts/AWIC.pdf)
+ - Air Water Intercooler Exchanger [Link](https://www.ebay.com/itm/284284503552) | [Backup](./parts/AWICExchanger.pdf)
+ - Wastegate [Link](https://www.ebay.com/itm/151739405815) | [Backup](./parts/Wastegate.pdf)
+ - Turbo Oil Feed [Link](https://www.ebay.com/itm/264004884925) | [Backup](./parts/OilFeed.pdf)
+   - Somehow the turbo kit didn't come with the right one. This is it.
+ 
+ ### Body
+ - ISC Suspension N1 Street Sport Coilovers [Link](https://www.rallysportdirect.com/part/coilovers/s001-s-isc-suspension-n1-street-sport-coilovers) | [Backup](./parts/Coilovers.pdf)
+ - Firehawk Indy 500 Tires
