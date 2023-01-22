@@ -5,12 +5,12 @@
             {
                 "Name": "LTC6811",
                 "Price": 115.00,
-                "Count": "12"
+                "Count": 12
             },
             {
                 "Name": "LTC6813",
                     "Price": 115.00,
-                    "Count": "12"
+                    "Count": 12
             }
         ]
     }
