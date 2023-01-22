@@ -11,6 +11,7 @@ Current options:
    - Expensive materials, expensive to buy
      - For this project I'd need either (Assuming I went with 142 LTO cells for a ~400v pack):
         {{ for slave in ENNOID.Slaves }}
+
         - {{slave.Count}} x {{slave.Name}} board at ${{slave.Price}}: ${{slave.Price * slave.Count}}
         {{ end }}
  - [Orion BMS 2](https://www.orionbms.com/products/orion-bms-standard/)
