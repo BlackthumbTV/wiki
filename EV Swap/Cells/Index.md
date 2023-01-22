@@ -1,9 +1,9 @@
-
+![Cell energy density graph](./CellEnergyDensityChart.jpg)
 
 # Cells for EVs
 Blow are some pros/cons of each cell chemistry, through my lens of what I plan to achieve with my various EV builds.
 
-## Terms
+# Terms
  - Energy Density: How much total energy a cell stores, IE how much range we'll get.
  - Power Density: How much current the cell can deliver at once, IE how hard we can punch it.
  - Thermal stability: How well the cell performs at low temps, and what it's max upper temps are like.
@@ -17,12 +17,32 @@ I'm grouping all these together as they sort of fall into the same category for 
 
 Pros:
  - Incredibly energy dense (250-300 Wh/Kg)
- - Decent power density
+ - Decent power density (~3C)
+
 Cons:
- - 
+ - Requires very accurate battery management.
+   - If you do these things wrong, they'll start on fire:
+     - Overcharge (over voltage)
+     - Undercharge (under voltage)
+     - Charge too fast
+     - Discharge too fast
+     - Get too hot
+   - When they get too cold, you cannot use them without risk of damanging them
+     - Which can eventually lead to a fire
+
+## Lithium Iron Phosphate (LiFePo4)
+
 
 
 
 # Links
  - [Summarize the Characteristics and Parameters of Six Common Lithium Batteries](https://www.linkedin.com/pulse/summarize-characteristics-parameters-six-common-lithium-cynthia-pan)
    - Good summary of common lithium chemistries
+ - [Wikipedia Comparison of commercial battery types](https://en.wikipedia.org/wiki/Comparison_of_commercial_battery_types)
+   - Provides more info on different battery chemistries, outside of Lithium.
+
+# Footnotes
+ - For all lithium chemistries, you can trade lifespan for (dis)charge current if you so choose
+   - As long as you don't go past what's safe for your chemistry
+   - Your baseline current rating is determined by the chemistry you choose
+   - More info on C ratings [can be found here](https://energsoft.com/blog/f/c-rate-of-batteries-and-fast-charging).
