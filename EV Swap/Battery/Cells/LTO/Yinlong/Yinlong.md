@@ -7,7 +7,17 @@ These cells seem to come in varying capacities, and can still deliver a ton of c
 
 ## Datasheet
 This is a datasheet I found on a random Alibaba listing.
-![Yinlong Datasheet](./Datasheet.png){max-width=600}
+
+<details>
+  <summary>This is a datasheet I found on a random Alibaba listing.</summary>
+
+   ![Yinlong Datasheet](./Datasheet.png){max-width=600}
+</details>
+<details>
+  <summary>Here's another one too</summary>
+  
+   ![Yinlong Datasheet](./Datasheet2.jpg){max-width=600}
+</details>
 
 ## Links
 

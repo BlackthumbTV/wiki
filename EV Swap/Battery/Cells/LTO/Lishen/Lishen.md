@@ -3,5 +3,8 @@
 # Lishen LTO Cell
 
 ## Datasheet
-This is a datasheet I found on a random Alibaba listing.
-![Lishen Datasheet](./Datasheet.png)
+<details>
+<summary>This is a datasheet I found on a random Alibaba listing.</summary>
+
+![Lishen Datasheet](./Datasheet.jpg){max-width=600}
+</details>
