@@ -26,14 +26,14 @@ It has a lot of bells and whistles that I quite like, such as monitoring battery
 
 My biggest gripe with proprietary devices in projects like this is that they don't give me enough info. I want to see *everything*, and the BMS has the most data that I'd want to access. Things like per-cell voltage, temps, current, balance state, all that. 
 
-Not only that, I'd love to be able to configure the thing over CAN so I don't have to use their program. Ideally I'm going to write my own little UI that runs on a cheap Android headunit.
+Not only that, I'd love to be able to configure the thing over CAN so I don't have to use their program. Ideally I'm going to write my own little UI that runs on a cheap Android headunit. Thankfully, it appears that the Orion BMS 2 supports most, if not all of this.
 
 Here's my notes on it's CAN-ness:
  - You can configure up to 16 custom can bus messages in the OBMS2, as detailed [here](https://www.orionbms.com/downloads/misc/editing_canbus_messages.pdf).
  - You're able to query data from the BMS, using an OBD2-like format. [Details here](https://www.orionbms.com/general/retrieving-data-obd2-canbus/).
  - You can set the BMS to transmit cell stats over the CAN bus at varying intervals.
    - <details>
-        <summary>BMS Cell Broadcast Manual</summary>
+        <summary>BMS Cell Broadcast Message (copied from their in-software help)</summary>
 
       ## Battery Cell Broadcast Message
 
