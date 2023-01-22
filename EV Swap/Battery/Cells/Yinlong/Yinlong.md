@@ -10,4 +10,4 @@ These cells seem to come in varying capacities, and can still deliver a ton of c
 ## Links
 
 ### Videos
- - [Load test (Probably rebrnaded Yinlong)](https://www.youtube.com/watch?v=X773lrAI3r0)
+ - [Load test (Probably rebranded Yinlong)](https://www.youtube.com/watch?v=X773lrAI3r0)
