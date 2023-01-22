@@ -43,3 +43,11 @@ Here's most of the stuff I used on the Hondaru build.
  ### Body
  - ISC Suspension N1 Street Sport Coilovers [Link](https://www.rallysportdirect.com/part/coilovers/s001-s-isc-suspension-n1-street-sport-coilovers) | [Backup](./parts/Coilovers.pdf)
  - Firehawk Indy 500 Tires
+
+ ## Adapter Plate Kit
+The adapter plate kit I used had some issues that have since been fixed. The fella who makes the kits reached out to me and asked for more details and I believe has since updated his designs to fix these issues.
+
+ I mentioned them in [this video](https://www.youtube.com/watch?v=WA76vNyVP2k) but, to summarize, the crank bolt circle was too tight to fit the socket over the bolt head.
+
+ 
+[![Bolt circle too close](./flywheel_marked.png){width=400px}](./flywheel_marked.png)

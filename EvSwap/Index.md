@@ -9,3 +9,5 @@ Each individual cell is 3.7v 4800mAh (maybe?).
 
 ### Difference between long range and standard range modules
 It looks like the standard range modules simply substitue some cells with more of that glue goop. More info [here](https://youtu.be/8Wamu0hyngU?t=287).
+
+[![Missing cells](./missingcells.png){width=400px}](./missingcells.png)
