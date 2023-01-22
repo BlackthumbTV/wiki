@@ -12,13 +12,14 @@ The options out there for BMSs are lookin quite slim. There are some "dumb" BMSs
 The LTC chips are in very short supply right now (2023/01) so the slaves might be tough to get, and probably makes them expensive. In fact, lets do some quick math:
 For this project I'd need either (Assuming I went th 142 LTO cells for a ~400v pack):{{ for slave in ENNOID.Slaves }}
   - {{slave.Count}} x {{slave.Name}} board at ${{slave.Price}}: ${{slave.Price * slave.Count}}{{ end }}
-Add in the price of the master at {{ENNOID.MasterPrice}} and you can see this starting to get expensive, considering it doesn't have the features the competition below does.
+
+Add in the price of the master at ${{ENNOID.MasterPrice}} and you can see this starting to get expensive, especially considering it doesn't have the features the competition below does.
 
 One major pro is that the firmware is entirely open source. So if something doesn't work the way I like, I can just change it.
 
 
 ## [Orion BMS 2](https://www.orionbms.com/products/orion-bms-standard/)
-The Orion BMS 2 is quite a mature product, but seems to be a bit of a walled garden. I downloaded the config software and poked around at it and, while it's nice, it certainly reminds me of controller software for things like the Kelley Controllers and the Delta Q chargers, and that's not a good thing for my purposes. 
+The Orion BMS 2 is quite a mature product, but seems to be a bit of a walled garden. I downloaded the config software and poked around at it and, while it's nice, it certainly reminds me of controller software for things like the Kelley Controllers and the Delta Q chargers, and that's not a good thing for my purposes. One of their resellers had the 144 cell unit priced at ~$2500 bucks.
 
 Their software (Orion BMS 2 Control Application) has a menu to "Enter a Service Code". Not sure what this is, but if I spend $2500 on a BMS I better have access to literally everything it has to offer. Other softwares, like the Delta Q Charger configuration software for example, lock you out of certain things unless you have a *super secret password*. If I wanted to be locked out of software on a device I own I'd buy an actual Tesla.
 
