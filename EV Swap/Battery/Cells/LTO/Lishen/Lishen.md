@@ -8,3 +8,8 @@
 
 ![Lishen Datasheet](./Datasheet.jpg){max-width=600}
 </details>
+
+## Links
+
+### Videos
+ - [Yinlong next to Lishen](https://www.youtube.com/watch?v=p5-nHNJn8WQ)

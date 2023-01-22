@@ -13,6 +13,7 @@ This is a datasheet I found on a random Alibaba listing.
 
    ![Yinlong Datasheet](./Datasheet.png){max-width=600}
 </details>
+
 <details>
   <summary>Here's another one too</summary>
   
@@ -22,4 +23,7 @@ This is a datasheet I found on a random Alibaba listing.
 ## Links
 
 ### Videos
+ - [Torture tests (drilling, cutting, etc)](https://www.youtube.com/watch?v=eAUYbSDEy6I)
  - [Load test (Probably rebranded Yinlong)](https://www.youtube.com/watch?v=X773lrAI3r0)
+ - [Yinlong next to Lishen](https://www.youtube.com/watch?v=p5-nHNJn8WQ)
+ - [Someone pulling 1700 amps](https://www.youtube.com/watch?v=mLunf10SegA)
