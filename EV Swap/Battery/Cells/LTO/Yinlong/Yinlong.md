@@ -5,20 +5,14 @@
 ## Summary
 These cells seem to come in varying capacities, and can still deliver a ton of current. Not as high as the Lishen cells, though.
 
-## Datasheet
+## Datasheets
 This is a datasheet I found on a random Alibaba listing.
 
-<details>
-  <summary>This is a datasheet I found on a random Alibaba listing.</summary>
+![Yinlong Datasheet](./Datasheet.png){max-width=600}
 
-   ![Yinlong Datasheet](./Datasheet.png){max-width=600}
-</details>
-
-<details>
-  <summary>Here's another one too</summary>
+Here's another one too.
   
-   ![Yinlong Datasheet](./Datasheet2.jpg){max-width=600}
-</details>
+![Another Yinlong Datasheet](./Datasheet2.jpg){max-width=600}
 
 ## Links
 
