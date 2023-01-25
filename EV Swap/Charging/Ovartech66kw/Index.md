@@ -6,6 +6,7 @@ A quick and easy charger. Typically sold by US resellers at a significant markup
 Model Number: `CAD662DF400-14152`
 
 [Datasheet](./Datasheet.pdf)
+[CAN Protocol](./CanProtocol.pdf)
 
 ## Sales Info
 This product is a combination high-frequency 6.6 kW battery charger and 1.5 kW DC/DC converter in one package. Integrating the high-frequency battery charger and DC/DC converter saves space, weight and cabling; thereby minimizing the cost of inventory, installation and service.
