@@ -7,8 +7,6 @@ Main 23 pin connector is an `TE Ampseal 770680-1`. Just so happens to be the cam
 The motor encoder connector is a `TE 444046-1`. 
 
 ## CV Shafts
-Rear CV shafts for the LDU are the same as the SDU, according to an eBay seller.
-
 ![CV Shaft](./TeslaLDUCVShaft.jpg){ max-width=300 }
 
 ## Precharge
