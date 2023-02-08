@@ -1,4 +1,4 @@
-![RX8 Photo](./rx8.jpg){ max-width=700 }
+![RX8 Photo](./rx8.jpg){width=700}
 
 # LS Swapped RX8
 My LS swapped 2004 Mazda RX8. A pretty ordinary RX8 swap.
@@ -66,8 +66,8 @@ I then removed the flange from the diff (pictured below) and took that and the o
 
 Using the flange, old drive shaft, the measurement, and a slip yoke I bought alongside the T56 Magnum-F transmission, they were able to fab up a new drive shaft.
 
-![Flange 1](./Flange1.jpg){max-width=400}
-![Flange 2](./Flange2.jpg){max-width=400}
+![Flange 1](./Flange1.jpg){width=400}
+![Flange 2](./Flange2.jpg){width=400}
 
 ## Headunit Notes
 The headunit controls the HVAC so you need some special stuff to make it work right. I ultimately decided to go with an [Axxes control box and setup](https://axxessinterfaces.com/product/95-7510) that controls the HVAC, and an [Android head unit](https://www.amazon.com/gp/product/B09FK3KDWN). Got my Axxes stuff used on eBay for much cheaper.
