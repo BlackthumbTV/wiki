@@ -60,11 +60,11 @@ You can use either the early or late design that matches the ABS unit in your ca
 https://www.rx8club.com/series-i-tech-garage-22/brake-master-cylinder-versions-272660/
 
 ## Drive Shaft
-I opted to stick with the stock RX8 rear diff. I did consider to do the Ford 8.8 upgrade, but given the cost of everything I figured I'd wait until I shredded the stock rear diff to do that. I measured from the output shaft of the trans to the flange on the diff.
+I opted to stick with the stock RX8 rear diff. I did consider the Ford 8.8 upgrade, but given the cost of everything I figured I'd wait until I shredded the stock rear diff to do that. I've done a bunch of burn outs and side stepped the clutch and the diff still hasn't given up, so that's nice.
 
-I then removed the flange from the diff (pictured below) and took that and the original carbon fiber drive shaft, and the measurement to a local diesel mechanics shop, where a buddy of mine works. They regularly fab custom drive shafts there for big trucks, but they can make stuff for cars too.
+I measured from the output shaft of the trans to the flange on the diff. I then removed the flange from the diff (pictured below) and took that, the original carbon fiber drive shaft, the slip yoke, and the measurement to a local diesel mechanics shop where a buddy of mine works. They regularly fab custom drive shafts there for big trucks, but they can make stuff for cars too.
 
-Using the flange, old drive shaft, the measurement, and a slip yoke I bought alongside the T56 Magnum-F transmission, they were able to fab up a new drive shaft.
+Using the flange, old drive shaft, the measurement, and the slip yoke I bought alongside the T56 Magnum-F transmission, they were able to fab up a new drive shaft.
 
 ![Flange 1](./Flange1.jpg){width=300} ![Flange 2](./Flange2.jpg){width=300} ![Driveshaft](./Driveshaft.jpg){width=300}
 
