@@ -1,4 +1,4 @@
-![RX8 Photo](./rx8.jpg){ width=700 }
+![RX8 Photo](./rx8.jpg){ max-width=700 }
 
 # LS Swapped RX8
 My LS swapped 2004 Mazda RX8. A pretty ordinary RX8 swap.
@@ -59,12 +59,21 @@ You can use either the early or late design that matches the ABS unit in your ca
 
 https://www.rx8club.com/series-i-tech-garage-22/brake-master-cylinder-versions-272660/
 
+## Drive Shaft
+I opted to stick with the stock RX8 rear diff. I did consider to do the Ford 8.8 upgrade, but given the cost of everything I figured I'd wait until I shredded the stock rear diff to do that. I measured from the output shaft of the trans to the flange on the diff.
+
+I then removed the flange from the diff (pictured below) and took that and the original carbon fiber drive shaft, and the measurement to a local diesel mechanics shop, where a buddy of mine works. They regularly fab custom drive shafts there for big trucks, but they can make stuff for cars too.
+
+Using the flange, old drive shaft, the measurement, and a slip yoke I bought alongside the T56 Magnum-F transmission, they were able to fab up a new drive shaft.
+
+![Flange 1](./Flange1.jpg){max-width=400}
+![Flange 2](./Flange2.jpg){max-width=400}
+
 ## Headunit Notes
 The headunit controls the HVAC so you need some special stuff to make it work right. I ultimately decided to go with an [Axxes control box and setup](https://axxessinterfaces.com/product/95-7510) that controls the HVAC, and an [Android head unit](https://www.amazon.com/gp/product/B09FK3KDWN). Got my Axxes stuff used on eBay for much cheaper.
 
 ### RX8 Display
 The little display in the center of the dash is pretty cool. Before deciding to get an aftermarket headunit setup that could handle it, I was looking into controlling it myself. Ended up finding this [Github repo](https://github.com/TonyChatfield/S1-RX8-AC-Display-controller).
-
 
 ## Engine Notes
 ### Accessories
