@@ -6,3 +6,5 @@ I think my drive unit has the dreaded "milling noise" issue. One that many large
 [This entire site](https://sites.google.com/view/teslaldu) is quite useful, but [this page](https://sites.google.com/view/teslaldu/parts) in particular has a ton of useful info for replacement parts (because we all know Tesla won't sell 'em to us...)
 
 [This page](http://www.turbo-electric.info/teslaresearch.html) shows some stuff about the motor encoder, including a part number/links to ali express!
+
+[This video](https://www.youtube.com/watch?v=OXSDrDztx78) provides great instruction for reassembly.
