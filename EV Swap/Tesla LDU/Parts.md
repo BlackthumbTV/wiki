@@ -8,3 +8,5 @@ I think my drive unit has the dreaded "milling noise" issue. One that many large
 [This page](http://www.turbo-electric.info/teslaresearch.html) shows some stuff about the motor encoder, including a part number/links to ali express!
 
 [This video](https://www.youtube.com/watch?v=OXSDrDztx78) provides great instruction for reassembly.
+
+[Video about installing LSD](https://www.youtube.com/watch?v=FcFjUvC3yvQ)
