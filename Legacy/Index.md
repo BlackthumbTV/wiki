@@ -18,6 +18,8 @@ According to the fella in [this video](https://www.youtube.com/watch?v=Dv1laGYsx
 
 I contacted Outfront regarding the pistons (and also the rods, see below) and they only have CP pistons in stock, for $1500. Oof.
 
+Jeremy at Outfront states that any build that goes north of 500hp should go closed-deck due to the thin cylinder walls. He also states that the stock internals are known to hold around 400hp, so the only reason to go forged internals is for very high power builds.
+
 
 ### Rods
 [Pauter makes a set](https://pauter.com/shop/rods/subaru/subaru-3-0l-ez30-h6-rods/) which are crazy expensive (~$2000), but are rated for a ton of power. I just don't need that, so it'd be a waste.
