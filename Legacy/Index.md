@@ -1,5 +1,5 @@
 # Turbo EZ30R Legacy Swap
-A wee turbo EZ30R Legacy swap (the newer one with the plastic intake manifold). Modest power goal of 600hp. 
+A wee EZ30R Legacy swap (the newer one with the plastic intake manifold). Modest power goal between 400hp-600hp, likely with a supercharger. 
 
 ## Engine Source
 I just searched for EZ30Rs on ebay. Pro tip: don't order through ebay. Call the importer directly and order, you'll get a better price because then they don't have to pay ebay fees. They usually have their phone numbers somewhere in the listing or photos.
