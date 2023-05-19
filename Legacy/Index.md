@@ -29,7 +29,11 @@ Jeremy at Outfront states that any build that goes north of 500hp should go clos
 [There's some for sale on Aliexpress](https://www.aliexpress.us/item/2251801636123391.html) that are suspiciously similar to K1s. They may be the same thing. The description states to message before ordering to verify availability, so they're likely not in stock.
 
 ### Headers
-I was considering making my own headers, but it appears that [Raptor sells a set](https://raptorsc.com.au/subaru/subaru-libertylegacy-4-gen-ez30-header/). In [this video](https://www.youtube.com/watch?v=Q8vW6qYIfWk) they show how they made a custom uppipe and downpipe. The Skid Factory video below shows how they did their headers, which is potentially something I could do (with my limited skillset) too.
+I am considering making my own headers. [Raptor sells a set](https://raptorsc.com.au/subaru/subaru-libertylegacy-4-gen-ez30-header/), however they don't have an option to buy online. This leads me to believe they're not stocked (probably made-to-order) and would take a substantial amount of time to actually get. This was later verified by a follower (ty *breamis*) who had reached out to them for a set, stating they'd take ~1 month to *maybe* get a set.
+
+In [this video](https://www.youtube.com/watch?v=Q8vW6qYIfWk) they show how they made a custom uppipe and downpipe. 
+
+[The Skid Factory video](https://www.youtube.com/watch?v=UhJgvKnuIZg) shows how they did their headers, and I did something similar in my build just using some parts/tube I got off ebay.
 
 ### Links
 - [Skid Factory video](https://www.youtube.com/watch?v=UhJgvKnuIZg) that has a metric fuckton of info, but you'll have to translate from Australian.
