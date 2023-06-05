@@ -35,6 +35,13 @@ In [this video](https://www.youtube.com/watch?v=Q8vW6qYIfWk) they show how they 
 
 [The Skid Factory video](https://www.youtube.com/watch?v=UhJgvKnuIZg) shows how they did their headers, and I did something similar in my build just using some parts/tube I got off ebay.
 
+### Power Steering
+I got lucky on the power steering I think. I used the PS pump that came with the EZ30R, but switched out the original 99 Legacy PS lines with ones from a 2005 Subaru Impreza 2.5 RS. I have that car just sitting out back as a parts car, so that's just what I had on hand. The important thing is that the 05 RS has a "remote" resivoir that sits near the ABS pump. I was able to essentially pop the lines/resivoir off the 05 RS and pop them right into the 99 Legacy. The fittings are the same for the steering rack, and the lines connected right up to the PS pump.
+
+### Accessory belt
+Right now, this car doesn't have an AC compressor, so I've only go the power steering pump and alternator to worry about. I measured it out and a `103cm` diameter. I ended up getting a 103.4mm outer circumfrance belt, which means inner circumfrance was a bit smaller, which is perfect as we want it to be a bit taught so the tensioner has a fair bit of resistance to it. The belt I actually purchased was a `MasterPro K060400`.
+[![H6 accessories](./accessories.jpg){width=400px}](./accessories.jpg)
+
 ### Links
 - [Skid Factory video](https://www.youtube.com/watch?v=UhJgvKnuIZg) that has a metric fuckton of info, but you'll have to translate from Australian.
 - [Possum Bourne Motorsport video](https://www.youtube.com/watch?v=Dv1laGYsxtE), who made the block for a Mighty Car Mods car.
