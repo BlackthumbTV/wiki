@@ -18,7 +18,7 @@ According to the fella in [this video](https://www.youtube.com/watch?v=Dv1laGYsx
 
 I contacted Outfront regarding the pistons (and also the rods, see below) and they only have CP pistons in stock, for $1500. Oof.
 
-Jeremy at Outfront states that any build that goes north of 500hp should go closed-deck due to the thin cylinder walls. He also states that the stock internals are known to hold around 400hp, so the only reason to go forged internals is for very high power builds.
+Jeremy at Outfront states that any build that goes north of 500hp should go closed-deck due to the thin cylinder walls. He also states that the stock internals are known to hold around 400hp, so the only reason to go forged internals is for very high power builds that would also need the closed-deck modification.
 
 
 ### Rods
@@ -40,6 +40,7 @@ I got lucky on the power steering I think. I used the PS pump that came with the
 
 ### Accessory belt
 Right now, this car doesn't have an AC compressor, so I've only go the power steering pump and alternator to worry about. I measured it out and a `103cm` diameter. I ended up getting a 103.4mm outer circumfrance belt, which means inner circumfrance was a bit smaller, which is perfect as we want it to be a bit taught so the tensioner has a fair bit of resistance to it. The belt I actually purchased was a `MasterPro K060400`.
+
 [![H6 accessories](./accessories.jpg){width=400px}](./accessories.jpg)
 
 ### Links
