@@ -1,2 +1,2 @@
 # Supercharger Stuff
-You can find the related design files for the custom intake manifold [here](./Supercharger.zip). The video details basically how the custom intake manifold for the supercharger was built.
+You can find the related design files for the custom intake manifold [here](./Supercharger.zip). [This video](https://youtu.be/Y6_W0FZ5e4A) details basically how to build the thing. Note that these files are provided for reference only. Things like intake runner length and such need to be addressed as they're not factored into the designs. 
