@@ -15,8 +15,8 @@ If there's one thing transmissions hate more than drivetrain shock, it's repeate
 ## Misc Part Numbers
 The 2005 2.5 RS trans (and also most six speeds) uses male axles, and thus doesn't have the axle stubs we're used to on the older transmissions. However, you can purchase some parts to convert these transmissions to use your existing female CV shafts. Below are the part numbers, sourced from [this forum post](https://www.rs25.com/threads/the-six-speed-swap-thread.181311/).
 
-- Axle Stub Shafts (x2): 38415AA110
-- Axle Circlips (x2): 805329010
+- Axle Stub Shafts (x2): `38415AA110`
+- Axle Circlips (x2): `805329010`
 - Seals
-  - Left: 806730041
-  - Right: 806730042 
+  - Left: `806730041`
+  - Right: `806730042`
