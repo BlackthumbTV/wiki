@@ -8,7 +8,7 @@ I'm hoping it won't blow again if I get a different clutch setup, reasons why be
 ## Ceramic Clutch Issues
 I was running a Clutchmasters FX400 Ceramic 8 Puck clutch which suffered from extreme chatter/shudder. When slipping the clutch, either to take off or between gears, the drivetrain would shake violently if there was too much slip, such as on a hill start, hard launch, or when executing imperfect shifts.
 
-Thus, when you're ripping it and shifting, you basically gotta drop the clutch between gears or risk extreme shudder. And when dropping it, you better hope you dropped it at the perfect rev or you shock the drivetrain. Which I didn't lmao.
+Thus, when you're ripping it and shifting, you basically gotta drop the clutch between gears or risk extreme shudder. And when dropping it, you better hope you dropped it at the perfect rev or you shock the drivetrain. Which I didn't and thus the 2nd gear delete.
 
 If there's one thing transmissions hate more than drivetrain shock, it's repeated drivetrain shock from the clutch shuddering.
 
@@ -20,3 +20,5 @@ The 2005 2.5 RS trans (and also most six speeds) uses male axles, and thus doesn
 - Seals
   - Left: `806730041`
   - Right: `806730042`
+
+  **NOTE:** All of this is in reference to an STI swap. Not sure if these part numbers are gonna work for the NA 2005 2.5 RS trans, but we're about to find out.
