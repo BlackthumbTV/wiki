@@ -21,4 +21,4 @@ The 2005 2.5 RS trans (and also most six speeds) uses male axles, and thus doesn
   - Left: `806730041`
   - Right: `806730042`
 
-  **NOTE:** All of this is in reference to an STI swap. Not sure if these part numbers are gonna work for the NA 2005 2.5 RS trans, but we're about to find out.
+**NOTE:** All of this is in reference to an STI swap. Not sure if these part numbers are gonna work for the NA 2005 2.5 RS trans, but we're about to find out.
