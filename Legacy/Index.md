@@ -5,6 +5,9 @@ A wee EZ30R Legacy swap (the newer one with the plastic intake manifold), with a
 
 <iframe width="560" height="315" style="width: 560px; height:315px;" src="https://www.youtube.com/embed/videoseries?si=BOyzLuO6YZmxFS-2&amp;list=PLFQKxsMzgSbhx8MJiBwqooqNe-DAWtTXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Intro
+Be sure to check out the other pages in the section, mainly the Supercharger page and the FAQ page.
+
 ## Engine Source
 I just searched for EZ30Rs on ebay. Pro tip: don't order through ebay. Call the importer directly and order, you'll get a better price because then they don't have to pay ebay fees. They usually have their phone numbers somewhere in the listing or photos.
 
