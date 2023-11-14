@@ -6,12 +6,12 @@ Below is a quick list of things you need to complete an auto-to-manual trans swa
 - Matching Rear Differential 
   - IE if your trans has a 3.9 FD, you need a 3.9 FD rear diff.
 - Matching Driveshaft
-  - The automatic transmission itself is *longer* than the 5 speed, thus its drive shaft is *shorter* than an MT drive shaft. 
+  - The automatic transmission itself is *longer* than the 5 speed, thus its drive shaft is *shorter* than a 5MT drive shaft. 
   - If you're swapping to a 5 speed, you need the *longer* 5MT drive shaft for the *shorter* five speed.
-  - 6 speeds are actually longer than the 5 speed, so the above doesn't apply. 
+  - 6 speed transmissions are actually longer than the 5 speeds, so the above doesn't apply. 
     - You can use the 4EAT drive shaft with a 6MT.
 - Axles (Maybe)
-  - If you have a "male" transmission (IE your transmission has stubs), then you need "female" axles.
+  - If you have a "male" transmission (IE your transmission has axle stubs), then you need "female" axles (IE they pop over the male axle stubs, and are secured with a roll pin).
   - Some transmissions are "female", IE they don't have axle stubs and instead the axle is "male" and pops directly into the trans.
   - So, if you have a "female" trans and "female" axles, you have one of two options
     1. You can just buy "male" axles.
@@ -23,13 +23,17 @@ Below is a quick list of things you need to complete an auto-to-manual trans swa
             - Left: `806730041`
             - Right: `806730042`
         - These parts may be able to be sourced from your 4EAT, though I haven't tried this.
+  - The opposite is true for a male-male situation.
 - Clutch assembly
   - Flywheel, pressure plate, pilot bearing
-  - You'll need the longer MT flywheel bolts as well. The AT flex plate bolts are too short.
+    - Some transmissions have push-type clutches, such as N/A cars and a range of more modern WRXs.
+    - Others have pull-type clutches, such as the 02-05 WRX/STIs (and others).
+    - Be sure to get the proper clutch setup based on whatever the trans requires.
+  - You'll need the longer MT flywheel bolts as well. The AT flex plate bolts are too short to bolt the flywheel to the crank.
 - Clutch/Brake Pedal box assembly
 - Master/Slave Cylinder
   - or clutch cable assembly, though you'd probably want to go hydro clutch if possible.
 - Manual Starter motor
 - Shifter assembly
   - This includes the rear bushing/mount
-  - The 6MT shifter assembly is different, as has the reverse ring that you pull up on to put the car in reverse.
+  - The 6MT shifter assembly is different from the 5MT, as it has the reverse ring that you pull up on to put the car in reverse.
