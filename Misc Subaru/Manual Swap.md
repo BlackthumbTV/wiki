@@ -27,7 +27,7 @@ Below is a quick list of things you need to complete an auto-to-manual transmiss
   - The opposite is true for a male-male situation.
 - Clutch assembly
   - Flywheel, pressure plate, pilot bearing
-    - Some transmissions have push-type clutches, such as N/A cars and a range of more modern WRXs.
+    - Some transmissions have push-type clutches, such as N/A cars and a range of more modern (2006+?) WRXs.
     - Others have pull-type clutches, such as the 02-05 WRX/STIs (and others).
     - Be sure to get the proper clutch setup based on whatever the trans requires.
   - You'll need the longer MT flywheel bolts as well. The AT flex plate bolts are too short to bolt the flywheel to the crank.
