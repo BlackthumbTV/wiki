@@ -51,3 +51,5 @@ This means that, if you're manual swapping a Subaru, you don't need to get a dif
 What pin that is depends on the make/model of the car you're swapping. Lookup an ECU pinout for your car, and try to find that `AT/MT Identification` pin in it. Ground it out.
 
 Note that if you don't do this, the car will still run but it'll idle all weird and suck to drive. But it'll still run.
+
+[This forum post](https://www.rs25.com/threads/how-to-wire-an-automatic-to-manual-swap.225751/) gives a ton more detail on how to wire a manual swap to get things like the speedo working, and to get the damn ignition cylinder to let the key go.
