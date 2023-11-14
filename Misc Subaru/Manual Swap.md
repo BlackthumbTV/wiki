@@ -1,10 +1,11 @@
 # Manual Swap Parts List
-Below is a quick list of things you need to complete an auto-to-manual trans swap on a Subaru. This is a work in progress, but should get you started.
+Below is a quick list of things you need to complete an auto-to-manual transmission swap on a Subaru. This is a work in progress, but should get you started.
 
 - Manual Transmission
 - Manual Transmission Mount/Crossmember
 - Matching Rear Differential 
   - IE if your trans has a 3.9 FD, you need a 3.9 FD rear diff.
+  - Best bet is to pull the diff from the MT donor car. If you can't, look up your trans code on [LegacyPic](https://legacypic.uk/transmission/) to find the FD, and find a matching rear diff.
 - Matching Driveshaft
   - The automatic transmission itself is *longer* than the 5 speed, thus its drive shaft is *shorter* than a 5MT drive shaft. 
   - If you're swapping to a 5 speed, you need the *longer* 5MT drive shaft for the *shorter* five speed.
