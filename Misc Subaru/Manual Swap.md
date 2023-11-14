@@ -38,3 +38,16 @@ Below is a quick list of things you need to complete an auto-to-manual transmiss
 - Shifter assembly
   - This includes the rear bushing/mount
   - The 6MT shifter assembly is different from the 5MT, as it has the reverse ring that you pull up on to put the car in reverse.
+
+# Wiring
+I've mostly manual swapped older Subarus, such as a 2000 Impreza 2.5 RS Coupe and a 1999 Legacy Sedan, so this info mainly pertains to cars of that vintage, but it's probably worth checking if it applies to your swap too.
+
+Lots of car manufacturers use a different ECU for auto vs manual cars, so you'd need to get a "manual ECU" for your swap.
+
+Subaru does not do this, the ECUs are the same for AT vs MT. There's a special pin on the ECU called the `AT/MT Identification` pin. In MT cars, it is permanently grounded which tells the ECU that it's supposed to run in manual mode. In AT cars, there isn't even a pin in the harness for it, so it remains un-grounded and thus in auto mode.
+
+This means that, if you're manual swapping a Subaru, you don't need to get a different ECU. You can just shove some wire into the back of the connector for that pin and ground it out somewhere and the ECU will just run in manual mode. 
+
+What pin that is depends on the make/model of the car you're swapping. Lookup an ECU pinout for your car, and try to find that `AT/MT Identification` pin in it. Ground it out.
+
+Note that if you don't do this, the car will still run but it'll idle all weird and suck to drive. But it'll still run.
