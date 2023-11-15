@@ -38,6 +38,9 @@ Below is a quick list of things you need to complete an auto-to-manual transmiss
 - Shifter assembly
   - This includes the rear bushing/mount
   - The 6MT shifter assembly is different from the 5MT, as it has the reverse ring that you pull up on to put the car in reverse.
+- ABS Pump Assembly
+  - The ABS pump contains the ABS computer, which is different between AT/MT.
+  - You could swap the unit out and bleed the brakes and all, or leave it and not have ABS.
 
 # Wiring
 I've mostly manual swapped older Subarus, such as a 2000 Impreza 2.5 RS Coupe and a 1999 Legacy Sedan, so this info mainly pertains to cars of that vintage, but it's probably worth checking if it applies to your swap too.
