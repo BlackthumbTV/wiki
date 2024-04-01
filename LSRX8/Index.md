@@ -86,6 +86,24 @@ With both of these my accessories were easy.
 
 [![RX8 accessory belt drive](./LS1PSDeleteBeltRouting.jpg){ width=400 }](./LS1PSDeleteBeltRouting.jpg)
 
+## Wiring Quirks
+Wiring the RX8 is about as easy as it gets since the ECU lives in the engine bay. There are two things that were a little weird though.
+
+### Fuel Pump Wiring
+The factory RX8 has two operating speeds for the fuel pump, a lower speed that it uses during idle, and then full speed while running (I guess). They achieve the lower speed by running the fuel pump through a large resistor that lives on the passenger-side strut tower. They then have two relays that allow you to switch between both speeds, but the diagram makes it confusing on how they're intended to be used. 
+
+I don't want to run my pump at a lower speed anyhow, so I bypassed this functionality by removing the resistor pack.
+
+In order to get the pump to run, just make sure you have the ECU pull both relays low. I did this by wiring both relays to the same output on the ECU.
+
+### Radiator Fan Wiring
+The RX8 has two rad fans from the factory, but three relays that control them for whatever reason? I'm not sure about the intended reason for this, but it doesn't really matter. I just need the fan to turn on when it's time. Here's how I achieved that:
+
+1. Wire your actual fan to the Fan 1 plug on the RX8.
+  - This is the plug with Blue +, Green - wires.
+2. Wire your ECU to control the relay for Fan 1. 
+3. In the fusebox, remove the Fan 2 relay and simply jump it's high-current switched side to always be on.
+  - I just used some spade terminals crimped to a short length of thick-gauge wire to make a little jumper
 
 ## Other notes
  - There's a pinch weld that goes around the frame rails/firewall/entire engine bay. This is so close to the headers that I can't get the rear-most bolts in on them. Next time I'll hammer that down flat so I have a bit more room.
