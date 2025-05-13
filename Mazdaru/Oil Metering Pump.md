@@ -17,9 +17,11 @@ The wiring below was correct as far as pin position goes, but the colors were no
 
 ## Info Sources
 [This post](https://www.facebook.com/groups/haltechtuningandtips/posts/3496389273913708/) has some more info on the motor and sensor.
+
 ![RX8 OMP Post 1](./images/OmpFbPost1.png){width=400px}
 
 [This other post](https://www.facebook.com/groups/haltechtuningandtips/posts/3659143074304993/) has some info on the alternative sensor for closed loop.
+
 ![RX8 OMP Post 2](./images/OmpFbPost2.png){width=400px}
 
 The author of this post followed up with this info: 
