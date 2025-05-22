@@ -8,7 +8,7 @@
   - See Flanges in this section, I have a DXF that can be used for cutting.
 
 ## CAN BUS
-The actuator CAN BUS speed is 250kbps. Below is the code I use to both set the vane position, and read it. Note that I use an ESP32 so the code you see here is for their TAWI lib.
+The actuator CAN BUS speed is 250kbps. Below is the code I use to both set the vane position, and read it. Note that I use an ESP32 so the code you see here is for their TWAI lib.
 
 ### Setting the position
 
