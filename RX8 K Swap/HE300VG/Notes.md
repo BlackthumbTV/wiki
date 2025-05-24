@@ -1,5 +1,7 @@
 # Holset HE300VG Notes
 
+The controller code can be found [here](https://github.com/BlackthumbTV/VgtController).
+
 ## Various Sizes
 - Oil feed: M12x1.5
 - Oil return: uses the flang-looking ones for sale, holes are 50mm apart.
